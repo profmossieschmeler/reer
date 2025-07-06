@@ -1,0 +1,5 @@
+
+Enter match name: Wimbledon 2025
+Enter match time (YYYY-MM-DD HH:MM, optional): 
+Enter match type (e.g., cricket, football): Tennis
+Enter team names or keywords (comma separated, optional): Jannik Sinner, Iga Swiatek, Novak Djokovic 
